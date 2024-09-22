@@ -37,8 +37,6 @@ The results show the following accuracy scores:
 - **Random Forest**: ```0.84%```
 The Random Forest classifier generally outperforms the Decision Tree in terms of accuracy, demonstrating the power of ensemble methods in text classification
 
-## Conclusion
-This project demonstrates the process of collecting, preprocessing, and organizing image data, as well as utilizing vector databases for image similarity searches. Each part of the project can be executed independently or together to achieve the overall goal.
 
 # Additional Information
 
